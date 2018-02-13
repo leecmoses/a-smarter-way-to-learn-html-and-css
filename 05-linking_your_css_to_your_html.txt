@@ -1,0 +1,71 @@
+5 - Linking Your CSS to Your HTML
+
+Notes
+    * Since the CSS file is separate from the html file, the browser has to be told where to find it. This is how you do it.
+        * <link rel="stylesheet" type="text/css" href="css/styles.css">
+    * The link information should go between the <head> and </head> tags, rather than the <body> and </body> tags.
+        * The difference between the head and body sections is that the head section deals with a few technical matters -
+        like telling the browswer where to find the CSS file.
+        * While the body section cotains the content of the page.
+    * The link information itself is a tag. However, it does not have a closing tag because it stands alone.
+    * href stands for hypertext reference.
+    * Notice that there are NO spaces in the tag, except those separating the three "equations."
+
+Quiz
+1. In order to make the HTML file aware of the CSS file, you have to ____ the CSS file to the HTML file.
+    A: link
+
+2. The link to the CSS file goes in which section of the HTML file? The answer is 4 characters long.
+    A: head
+
+3. How many "equations" are in CSS link code? Answer with a numeral.
+    A: 3
+
+4. What are the first 5 characters of the CSS link tag?
+    A: <link
+
+5. Holding down the left mouse button, drag the pieces of code onto the screen to form CSS link code. The file is in the css subdirectory.
+    A: <link rel="stylesheet" type="text/css" href="css/styles.css">
+
+6. The latter section of the CSS link code is type="text/css" href="css/styles.css">. Write the first section.
+    A: <link rel="stylesheet"
+
+7. Write the second "equation" of the CSS link code.
+    A: type="text/css"
+
+8. Fill in the blank for the last "equation" of the CSS link code. ______"css/styles.css">
+    A: href=
+
+9. Assuming that the CSS file is named "styles.css" and it is in a subdirectory named "css" write the third "equation" of the CSS link code
+    A: href="css/styles.css"
+
+10. Write the first part of CSS link code, including the first "equation."
+    A: <link rel="stylesheet"
+
+11. Write the second "equation."
+    A: type="text/css"
+
+12. Write the complete CSS link code. Assume that the CSS file is in the same directory as the HTML file and that its name is "s1.css"
+    A: <link rel="stylesheet" type="text/css" href="s1.css">
+
+13. Write the second "equation" of the CSS link code.
+    A: type="text/css"
+
+14. Fill in the blank for the last "equation" of the CSS link code. ______"css/styles.css">
+    A: href=
+
+15. Assuming that the CSS file is named "styles.css" and it is in a subdirectory named "css" write the third "equation" of the CSS link code
+    A: href="css/styles.css"
+
+16. Write the first part of CSS link code, including the first "equation."
+    A: <link rel="stylesheet"
+
+17. Write the second "equation."
+    A: type="text/css"
+
+18. Write the complete CSS link code. Assume that the CSS file is in the same directory as the HTML file and that its name is "s1.css"
+    A: <link rel="stylesheet" type="text/css" href="s1.css">
+
+19. You won't be coding in this exercise. It's a demo to give you a feel for how this works. I've placed some code in the answer field below. Click Run it to run my code. Don't change any of my code.
+
+20. Now I'll ask you to link the same HTML code to the CSS file named "styles2.css". The file is in the same directory as the HTML code, so you don't need to specify a subdirectory. This CSS file specifies new fonts for the heading and the paragraph and specifies red for the heading color. You'll learn to create these styles soon. Write your link code in the space I've left for you. Don't change any of my code. When you're finished, click Run it.

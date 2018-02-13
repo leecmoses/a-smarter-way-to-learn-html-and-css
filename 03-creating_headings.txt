@@ -1,0 +1,76 @@
+3 - Creating Headings
+
+Notes
+    * HTML gives you six sizes of headings to choose from, h1 through h6.
+        * h1 is the largest, h6 is the smallest.
+        * You don't have to include all the different sizes of headings in your HTML document, but you should include h1 heading, because search engines look for it.
+    * If you want the browser to break the heading a certain way, you have to tell it to do so explicitly, using the tag <br>.
+        * There are no space between the text and <br>. 
+        * And there's no closing br tag.
+    * By default, browsers separate paragraphs by adding space between them.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/3.html
+
+1. <h3> is a tag for a ________.
+    A: heading
+
+2. How many standard sizes of headings are there? Answer with a numeral.
+    A: 6
+
+3. What is the opening tag for the smallest heading?
+    A: <h6>
+
+4. What is the closing tag for the largest heading?
+    A: </h6>
+
+5. Holding down the left mouse button, drag the pieces of code onto the screen to code the largest heading of 2 words, followed by a medium-sized headingof 4 words.
+    A:  <h1>Our Mission</h1>
+        <h3>Helping people help people</h3>
+
+6. Create the smallest heading, that says Terms and Conditions
+    A: <h6>Terms and Conditions</h6>
+
+7. Create the largest heading. It says No Joke. It breaks into two lines, with one word on each line.
+    A: <h1>No<br>Joke</h1>
+
+8. There's one type of heading that should be only one-to-a-page. Type its opening tag
+    A: <h1>
+
+9. Create a next-to-smallest heading, including opening and closing tags, with any text you like.
+    A: <h5>Insert text here</h5>
+
+10. Type a next-to-largest heading, including opening and closing tags, with text of your choice, breaking it into two lines.
+    A: <h2>Line 1<br>Line 2</h2>
+
+11. Make up a next-to-smallest heading including text, followed by a smallest heading including text.
+    A:  <h5>Hello</h5>
+        <h6>friend!</h6>
+
+12. Code a heading of any size including made-up text, followed by a made-up paragraph including made-up text.
+    A:  <h1>Blah!</h1>
+        <p>Yay!</p>
+
+13. Create the largest heading. It says No Joke. It breaks into two lines, with one word on each line.
+    A: <h1>No<br>Joke</h1>
+
+14. There's one type of heading that should be only one-to-a-page. Type its opening tag
+    A: <h1>
+
+15. Make up a next-to-smallest heading including text, followed by a smallest heading including text.
+    A:  <h5>Next-to-smallest heading</h5>
+
+16. Type a next-to-largest heading, including opening and closing tags, with text of your choice, breaking it into two lines.
+    A: <h2>Line 1<br>Line 2</h2>
+
+17. Make up a next-to-smallest heading including text, followed by a smallest heading including text.
+    A:  <h5>Hello</h5>
+        <h6>friend!</h6>
+
+18. Code a heading of any size including made-up text, followed by a made-up paragraph including made-up text.
+    A:  <h1>Hello!</h1>
+        <p>Wisconsin!</p>
+
+19. http://jsfiddle.net/ASmarterWayToLearn/HL9L2/
+
+20. http://jsfiddle.net/ASmarterWayToLearn/x7fr5/

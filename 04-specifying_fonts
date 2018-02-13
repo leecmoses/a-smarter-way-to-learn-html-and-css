@@ -1,0 +1,88 @@
+4 - Specifying Fonts
+
+Notes
+    * Having the CSS file in a subfolder of main folder is not necessary, but is conventional.
+    * If a font name has any spaces in it, enclose it in quotation marks,as "Times New Roman".
+
+Quiz
+1. What are the last 4 characters of a file that contains nothing but statements like this? 
+    p {
+    font-family: "Times New Roman", Times, serif;
+    }
+    A: .css
+
+2. Type the first 3 characters of CSS code that specifies styling for paragraphs.
+    A: p {
+
+3. Type the first four characters of CSS code that specifies styling for the smallest heading.
+    A: h6 {
+    
+4. Fill in the blank.
+_______ "Trebuchet MS", Helvetica, sans-serif;
+    A: font-family:
+
+5. Holding down the left mouse button, drag the pieces of code onto the screen to style paragraphs. Tahoma is the first font in the stack.
+    A:  p {
+          font-family: Tahoma, Geneva, sans-serif;
+        }
+
+6. Style paragraphs. The font stack is Verdana, Geneva, sans-serif.
+    A:  p {
+          font-family: Verdana, Geneva, sans-serif;
+        }
+
+7. Style the largest heading. The font stack is Arial, Helvetica, sans-serif.
+    A:  h1 {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+8. Write the second line of styling code that specifies Tahoma, Geneva, and sans-serif as the font stack. Don't bother to indent.
+    A: font-family: Tahoma, Geneva, sans-serif;
+
+9. Write all three lines of styling code for paragraphs that specify Times New Roman, Times, and serif as the font stack. Don't forget the rule about font names that contain spaces.
+    A:  p {
+            font-family: "Times New Roman", Times, serif;
+        }
+
+10. Write all three lines of styling code for the second-largest heading that specify Verdana, Geneva, and sans-serif as the font stack.
+    A:  h2 {
+            font-family: Verdana, Geneva, sans-serif;
+        }
+
+11. Write all three lines of styling code for a heading of your choice that specify Arial, Helvetica, and sans-serif as the font stack.
+    A:  h1 {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+12. If the first font in a font stack is Times, what is the last font in the stack, typically?
+    A: serif
+
+13. Style the largest heading. The font stack is Arial, Helvetica, sans-serif.
+    A:  h1 {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+14. Write the second line of styling code that specifies Tahoma, Geneva, and sans-serif as the font stack. Don't bother to indent.
+    A: font-family: Tahoma, Geneva, sans-serif;
+
+15. Write all three lines of styling code for paragraphs that specify Times New Roman, Times, and serif as the font stack. Don't forget the rule about font names that contain spaces.
+    A:  p {
+            font-family: "Times New Roman", Times, serif;
+        }
+
+16. Write all three lines of styling code for the second-largest heading that specify Verdana, Geneva, and sans-serif as the font stack.
+    A:  h2 {
+            font-family: Verdana, Geneva, sans-serif;
+        }
+
+17. Write all three lines of styling code for a heading of your choice that specify Arial, Helvetica, and sans-serif as the font stack.
+    A:  h1 {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+18. If the first font in a font stack is Times, what is the last font in the stack, typically?
+    A: serif
+
+19. http://jsfiddle.net/ASmarterWayToLearn/3x9cX/
+
+20. http://jsfiddle.net/ASmarterWayToLearn/eCLTc/

@@ -1,0 +1,80 @@
+2 - Creating Paragraphs
+
+Notes
+    * When you enter a carriage return in an HTML document, the browser ignores it. If you want to display your two sentences in separate paragraphs, you have to explicitly tell the browser to do it.
+    * Usually, tags come in pairs, an opening tag paired with a closing tag.
+
+    Things to keep in mind:
+    * It's legal to write <P> instead of <p> but I'll ask you to stick to lower-case tags.
+    * There are no spaces between the tags and the text that they enclose.
+    * Good housekeeping demands that whenever the browser expects a closing tag, you provide it. Sometimes you can get away with writing <p> without closing with </p>, but it can produce unpredictable results.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/2.html
+
+1. In one word, what is this? <p>
+    A: tag
+
+2. When you name the file that creates a webpage, what are the last 5 characters of the filename?
+    A: .html
+
+3. If <p> is the opening tag, what is the closing tag?
+    A: </p>
+
+4. What are the two characters that begin and end all HTML tags?
+    A: <>
+
+5. Holding down the left mouse button, drag the pieces of code onto the screen to code 2 paragraphs.
+    A:  <p>Paragraph 1.</p>
+        <p>Paragraph 2.</p>
+
+6. Type a one-word paragraph whose text is Africa
+    A: <p>Africa</p>
+
+7. Create a paragraph whose text is Boo.
+    A: <p>Boo</p>
+
+8. Type the character that is legal but unconventional in the following code.
+    <P>
+    A: P
+
+9. What is missing? (two words)
+    <p>This.</p><p>That.</p>
+    A: carriage return
+
+10. Type what is missing.
+    <p>This.
+    <p>That.</p>
+    A: </p>
+
+11. Make up a fictitious opening tag.
+    A: <p>
+
+12. Make up a fictitious closing tag.
+    A: </p>
+
+13. Create a paragraph whose text is Boo.
+    A: <p>Boo</p>
+
+14. Type the character that is legal but unconventional in the following code.
+    <P>
+    A: P
+
+15. What is missing? (two words)
+    <p>This.</p><p>That.</p>
+    A: carriage return
+
+16. Type what is missing.
+    <p>This.
+    <p>That.</p>
+    A: </p>
+
+17. Make up a fictitious opening tag.
+    A: <p>
+
+18. Make up a fictitious closing tag.
+    A: </p>
+
+19. http://jsfiddle.net/ASmarterWayToLearn/r23ro6rL/
+
+20. http://jsfiddle.net/ASmarterWayToLearn/2UfQZ/

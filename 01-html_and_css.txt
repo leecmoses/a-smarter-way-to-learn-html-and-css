@@ -1,0 +1,75 @@
+1 - HTML & CSS
+
+Notes
+    * Hypertext Markup Language (HTML) - document is a text file that tells the browswer how to assemble a webpage.
+    * Cascading Stylesheets (CSS) - file that specifies the styling of the page - fonts, colors, colun widths, and the like.
+
+    When naming HTML and CSS files:
+    * Use only lower-case characters.
+    * Avoid spaces.
+    * stick to 0-9, a-z, and_.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/1.html
+
+1. The file that creates a webpage is made up of nothing but ________.
+    A: text
+
+2. When you name the file that creates a webpage, what are the last 5 characters of the filename?
+    A: .html
+
+3. When you name a file that creates styles for a webpage, what are the last 4 characters of the filename?
+    A: .css
+
+4. What type of program—Chrome, Firefox, Internet Explorer, and Safari are examples—assembles a webpage from HTML and CSS files? Answer with one word.
+    A: browser
+
+5. Drag-and-drop: Holding down the left mouse button, drag the pieces of code onto the screen to form a valid URL that points to the about page at fun.com.
+    A: http://www.fun.com/about.html
+
+6. You can see the name of a webpage's HTML file in the browser's _______ ___ (2 words).
+    A: address bar
+
+7. What portion of the following URL is the file name?
+    http://www.asmarterwaytolearn.com/html-css/1.html
+    A: 1.html
+
+8. If the following URL appears in the browser's address bar, what is the name of the file that most likely created the page?
+    http://www.asmarterwaytolearn.com
+    A: index.html
+
+9. Type the illegal character in this document name — l8ost planet.html
+    A: " " (space)
+
+10. Make up a legal file name for a webpage.
+    A: about_me.html
+
+11. Make up another legal file name for a webpage.
+    A: faq.html
+
+12. Typically, an HTML file is stored on the web host's _______ (1 word).
+    A: server
+
+13. What portion of the following URL is the file name?
+    http://www.asmarterwaytolearn.com/html-css/1.html
+    A: 1.html
+
+14. If the following URL appears in the browser's address bar, what is the name of the file that most likely created the page?
+    http://www.asmarterwaytolearn.com
+    A: index.html
+
+15. Type the illegal character in this document name — l8ost planet.html
+    A: " " (space)
+
+16. Make up a legal file name for a webpage.
+    A: 1.html
+
+17. Make up another legal file name for a webpage.
+    A: xy.html
+
+18. Typically, an HTML file is stored on the web host's _______ (1 word).
+    A: server
+
+19. http://jsfiddle.net/ASmarterWayToLearn/x8wq6/
+
+20. http://jsfiddle.net/ASmarterWayToLearn/knG8R/
