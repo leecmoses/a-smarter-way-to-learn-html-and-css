@@ -1,0 +1,78 @@
+10 - Font-Style
+
+Notes
+    * Italic font-style can also be written as <i></i> and <em></em>.
+        * The main difference is that when a screen reader sees the <em> tag, it puts extra vocal emphasis on the text enclosed in the tag. It doesn't do that with <i> text.
+    * Instead of creating a class for bold text in CSS, you can use the <b> tag in HTML.
+    * An alternative to the <b> tag is the <strong> tag.
+        * The main difference is that when a screen reader sees the <strong> tag, the reader may say the text in a lower tone. It doesn't do that with <b> text.
+
+Quiz
+1. Fill in the blank to create a class that displays text in italic. 
+.special {
+  _______: italic;
+}
+    A: font-style
+
+2. What HTML tag is the alternative to <i>?
+    A: <em>
+
+3. What HTML tag is the alternative to <b>?
+    A: <strong>
+
+4. What is the closing tag for the alternative to em?
+    A: </i>
+
+5. Holding down the left mouse button, drag the pieces of code onto the screen to create a class of paragraph named "emphasized" that is italicized.
+    A:  p.emphasized {
+            font-style: italic;
+        }
+
+6. Create a class not tied to an element, named "special," that specifies italic.
+    A:  .special {
+            font-style: italic;
+        }
+
+7. Code a paragraph, including opening and closing tags, with the text Hello there! The first word is italicized. (The space after it isn't.) Use the alternative to <i>.
+    A: <p><em>Hello</em> there!</p>
+
+8. Create a class that isn't tied to an element. Choose a name. Make it italic.
+    A:  .classy {
+            font-style: italic;
+        }
+
+9. Write a three-word paragraph with opening and closing tags. Italicize the last 2 words, using the alternative to <i>.
+    A: <p>Stop <em>right now!</em></p>
+
+10. Write a three-word heading (your choice of size) with opening and closing tags. Make the middle word bold, using the alternative to <b>. Don't bold the spaces.
+    A: <h2>The <strong>best</strong> sale</h2>
+
+11. Code a 4-word paragraph, including opening and closing tags. Italicize the second word and bold the fourth word using the tags that require the least typing. Don't style the spaces.
+    A: <p>How <i>odd</i> this <b>is</b></p>
+
+12. Create the next-smallest heading with opening and closing tags. Assign it a class (make up the name). Make up the text. Italicize the whole thing, using the tags that require the most typing.
+    A: <h5 class="made_up"><em>Whattttt?!</em></h5>
+
+13. Code a paragraph, including opening and closing tags, with the text Hello there! The first word (but not the space after it) is italicized. Use the alternative to <i>.
+    A: <p><em>Hello</em> there!</p>
+
+14. Create a class that isn't tied to an element. Choose a name. Make it italic.
+    A:  .no_element {
+            font-style: italic;
+        }
+
+15. Write a three-word paragraph with opening and closing tags. Italicize the last 2 words, using the alternative to <i>.
+    A: <p>My <em>name is</em></p>
+
+16. Write a three-word heading (your choice of size) with opening and closing tags. Make the middle word (not not the spaces before and after it) bold, using the alternative to <b>.
+    A: <h2>I <strong>am</strong> me</h2>
+
+17. Code a 4-word paragraph, including opening and closing tags. Italicize the second word and bold the fourth word using the tags that require the least typing. Don't style spaces.
+    A: <p>First <i>Second</i> Third <b>Fourth</b></p>
+
+18. Create the next-smallest heading with opening and closing tags. Assign it a class (make up the name). Make up the text. Italicize the whole thing, using the tags that require the most typing.
+    A: <h5 class="tiny"><em>Hello, everyone.</em></h5>
+
+19. http://jsfiddle.net/ASmarterWayToLearn/nky1qsxm/
+
+20. http://jsfiddle.net/ASmarterWayToLearn/b8oj40cz/

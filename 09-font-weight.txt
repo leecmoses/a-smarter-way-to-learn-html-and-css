@@ -1,0 +1,103 @@
+9 - Font-Weight
+
+Notes
+    * Font-weight ranges from 100 through 900.
+        * 100 is the lightest weight.
+        * 400 is normal.
+        * 900 is heaviest.
+    * As an alternative to the numerical scale, you can use one of four font-weight words:
+        * lighter
+        * normal
+        * bold
+        * bolder
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/9.html
+
+1. What is the CSS term for specifying whether text is bold?
+    A: font-weight
+
+2. When you specify font-weight by a number, how many font-weights are there? Answer with a numeral.
+    A: 9
+
+3. When you specify font-weight with a word, how many font-weights are there? Answer with a numeral.
+    A: 4
+
+4. What number represents the boldest of the bold? Answer with a numeral.
+    A: 900
+
+5. Holding down the left mouse button, drag the pieces of code onto the screen to create a class of paragraph named "light" that has the lightest font-weight.
+    A:  p.light {
+            font-weight: 100;
+        }
+
+6. Create a class not tied to an element, named "normal," that specifies normal font-weight in terms of a number.
+    A:  .normal {
+            font-weight: 400;
+        }
+
+7. Create a class of h3 headings that have the lightest font-weight. Name the class "lightest". Use a word to specify font-weight, not a number.
+    A:  h3.lightest {
+            font-weight: lighter;
+        }
+
+8. Create a class named "kinda_bold" that's not tied to an element. Make it two levels bolder than normal. Use a number.
+    A:  .kinda_bold {
+            font-weight: 600;
+        }
+
+9. Create a class of heading, your choice of size, whose font-weight is next-to-boldest. Choose your own class name. Use a word to specify the font-weight.
+    A:  h5.prominent {
+            font-weight: bold;
+        }
+
+10. Create a class that isn't tied to an element. Name it whatever you like. Give it normal font-weight. Use a number or a word.
+    A:  .whatever_they_said {
+            font-weight: normal;
+        }
+
+11. Define a class that isn't tied to an element. Give it the class name of your choice and a font-weight of your choice, using a number.
+    A:  .your_choice {
+            font-weight: 300;
+        }
+    
+12. Create a class of heading (your choice of size). Make it as bold as possible, using a word. Make up the class name.
+    A:  h1.super_bold {
+            font-weight: bolder;
+        }
+
+13. Create a class of h3 headings that have the lightest font-weight. Name the class "lightest". Use a word to specify font-weight, not a number.
+    A:  h3.lightest {
+            font-weight: lighter;
+
+14. Create a class named "kinda_bold" that's not tied to an element. Make it two levels bolder than normal. Use a number.
+    A:  .kinda_bold {
+            font-weight: 600;
+        }
+
+15. Create a class of heading, your choice of size, whose font-weight is next-to-boldest. Choose your own class name. Use a word to specify the font-weight.
+    A:  h5.prominent {
+            font-weight: bold;
+
+16. Create a class that isn't tied to an element. Name it whatever you like. Give it normal font-weight. Use a number or a word.
+    A:  .standard {
+            font-weight: normal;
+        }
+    or
+        .standard {
+            font-weight: 400;
+        }
+
+17. Define a class that isn't tied to an element. Give it the class name of your choice and a font-weight of your choice, using a number.
+    A:  .my_choice {
+            font-weight: 100;
+        }
+
+18. Create a class of heading (your choice of size). Make it as bold as possible, using a word. Make up the class name.
+    A:  h1.super_bold {
+            font-weight: bolder;
+        }
+
+19. http://jsfiddle.net/ASmarterWayToLearn/jho0455v/
+
+20. http://jsfiddle.net/ASmarterWayToLearn/jx5hcn4y/

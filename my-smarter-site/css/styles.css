@@ -1,7 +1,18 @@
 p {
     font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 1.2em;
+}
+p.important {
+    font-size: 1.5em;
+    font-weight: 900;
 }
 h1 {
     font-family: "Trebuchet MS", Helvetica, sans-serif;
+    font-size: 2em;
 }
-
+.typewriter {
+    font-family: "Courier New", Courier, monospace;
+}
+.emphasized {
+    font-style: italic;
+}

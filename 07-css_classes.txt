@@ -1,0 +1,84 @@
+7 - CSS Classes
+
+Notes
+    * Special styling for a class will override the general style.
+    * The same class can be assigned to any number of elements.
+    * More than one class can be assigned to an element.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/7.html
+
+
+1. You're creating a class of paragraphs. The first character you type is p. What is the second character?
+    Answer: .
+
+2. You're creating a class of h2 headings. What are the first 3 characters of your code?
+    Answer: h2.
+
+3. In your HTML, when you specify that a paragraph or heading is a certain class, you're telling the browser to override the ________ styling.
+    Answer: default
+
+4. Here's the beginning of an HTML tag.
+    <p class
+    What are the next 2 characters?
+    A: ="
+
+5. Holding down the left mouse button, drag the pieces of code onto the screen to create a class of paragraphs named "prominent"
+    A:  p.prominent {
+            font-size: 1.75em;
+        }
+
+6. Write the HTML for the opening tag for an h4 heading of the class named "modest"
+    A: <h4 class="modest">
+
+7. Create a class of h2 headings that are double the default size. The class name is "special"
+    A:  h2.special {
+            font-size: 2em;
+        }
+
+8. Code the first line that defines a paragraph class. Give it a name of your choice.
+    A: p.fancy_pants {
+
+9. Create a class of heading (your choice of size) that displays in a font from the stack Georgia, Times, serif. Give it any legal name you like.
+    A:  h5.formal {
+            font-family: Georgia, Times, serif;
+        }
+
+10. Code the HTML for an opening heading tag. Make it a heading size of your choice and specify a class name of your choice.
+    A:  <h1 class="chilling">
+
+11. Define a class of paragraph. Give it the class name of your choice and a font-size of your choice.
+    A:  p.triple {
+            font-size: 3em;
+        }
+
+12. Code the HTML for a paragraph including opening tag, some text, and closing tag. Assign it a class of your choice.
+    A: <p class="awesome">Coding is awesome!</p>
+
+13. Create a class of h2 headings that are double the default size. The class name is "special"
+    A:  h2.special {
+            font-size: 2em;
+        }
+
+14. Code the first line that defines a paragraph class. Give it a name of your choice.
+    A: p.choice {
+
+15. Create a class of heading (your choice of size) that displays in a font from the stack Georgia, Times, serif. Give it any legal name you like.
+    A:  h2.peachy {
+            font-family: Georgia, Times, serif;
+        }
+
+16. Code the HTML for an opening heading tag. Make it a heading size of your choice and specify a class name of your choice.
+    A: <h1 class="quick">
+
+17. Define a class of paragraph. Give it the class name of your choice and a font-size of your choice.
+    A:  p.classy {
+            font-size: .85em;
+        }
+
+18. Code the HTML for a paragraph including opening tag, some text, and closing tag. Assign it a class of your choice.
+    A: <p class="cool">Coding is cool!</p>
+
+19. http://jsfiddle.net/ASmarterWayToLearn/g4Q92/
+
+20. http://jsfiddle.net/ASmarterWayToLearn/5vZ42/

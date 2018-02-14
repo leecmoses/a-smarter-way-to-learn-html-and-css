@@ -1,0 +1,92 @@
+6 - Specifying a Font-Size
+
+Notes
+    * font-size: 2em;
+        * There is no space between 2 and em.
+        * The line ends with a semicolon.
+    
+    Coding Alternatives to be Aware Of
+    * Instead of specifying font-size in ems, you can specify it in percentages, pixels, or points.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/6.html
+
+1. What are the first 10 characters for specifying how big you want font size?
+    A: font-size:
+
+2. What unit of measurement do I recommend for specifying font-size? (3 characters)
+    A: ems
+
+3. If the specification is 1.5em, the font is to be 150% of the ______ size.
+    A: default
+
+4. Give me any one of the three alternatives to ems that I mention. (All three words are plurals.)
+    A: pixels, percentages, or points
+
+5. Holding down the left mouse button, drag the pieces of code onto the screen to style paragraphs so the text is 175% of the default.
+    A:  p {
+            font-size: 1.75em;
+        }
+
+6. Specify the font size as twice the default size.
+    A: font-size: 2em;
+
+7. Specify for the third largest heading a font-size that's twice the default text size. Don't forget to indent the second line two spaces.
+    A:  h3 {
+            font-size: 2em;
+        }
+
+8. How do you say you want it to be 2-1/2 times the default size?
+    A: font-size: 2.5em;
+
+9. Write code specifying any size you like for paragraphs.
+    A:  p {
+            font-size: 1.25em;
+        }
+
+10. Style any size of headings three-quarters of the default size.
+    A:  h1 {
+            font-size: .75em;
+        }
+
+11. Style paragraphs the same as the default size.
+    A:  p {
+            font-size: 1em;
+        }
+
+12. Style the font-size (your choice) for your choice of paragraph or heading.
+    A:  p {
+            font-size: 1.5em;
+        }
+
+13. Specify for the third largest heading a font-size that's twice the default text size. Don't forget to indent the second line two spaces.
+    A:  h3 {
+            font-size: 2em;
+        }
+
+14. How do you say you want it to be 2-1/2 times the default size?
+    A: font-size: 2.5em;
+
+15. Write code specifying any size you like for paragraphs.
+    A:  p {
+            font-size: 1.25em;
+        }
+
+16. Style any size of headings three-quarters of the default size.
+    A:  h3 {
+            font-size: .75em;
+        }
+
+17. Style paragraphs the same as the default size.
+    A:  p {
+            font-size: 1em;
+        }
+
+18. Style the font-size (your choice) for your choice of paragraph or heading.
+    A:  p {
+            font-size: 1.25em;
+        }
+
+19. http://jsfiddle.net/ASmarterWayToLearn/L6NwM/
+
+20. http://jsfiddle.net/ASmarterWayToLearn/LcL9n/
