@@ -16,3 +16,24 @@ h1 {
 .emphasized {
     font-style: italic;
 }
+.standout {
+    color: red;
+}
+p.spacey {
+    letter-spacing: 1em;
+    word-spacing: 1em;
+    line-height: 2.4em;
+}
+h3 {
+    text-align: center;
+}
+p.pretty {
+    text-align: justify;
+}
+p.tabbed {
+    text-indent: 1.5em;
+}
+blockquote {
+    font-size: .9em;
+    color: grey;
+}

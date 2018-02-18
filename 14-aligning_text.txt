@@ -1,0 +1,103 @@
+14 - Aligning Text
+
+Notes
+    * You can center, left-align, right-align, and justify text.
+    * text-align: center;
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/14.html
+
+1. Fill in the blank to create a centered heading. 
+________: center;
+    A: text-align
+
+2. The style explicitly specifies the default alignment. Fill in the blank. 
+text-align: _____
+    A: left;
+
+3. The style specifies the heading or paragraph is to be placed in the middle. Fill in the blank. 
+text-align: _____
+    A: center;
+
+4. The styling smooths the left and right edges of the text block. Fill in the blank. 
+text-align: _____
+    A: justify;
+
+5. Holding down the left mouse button, drag the pieces of code onto the screen to tighten the spacing between characters and center the heading.
+    A:  h2 {
+            letter-spacing: -.1em; 
+            text-align: center;
+        }
+
+6. Style all paragraphs with even left and right edges.
+    A:  p {
+            text-align: justify;
+        }
+
+7. Create a class of h3 headings named "normal" that explicitly gives them default alignment.
+    A:  h3.normal {
+            text-align: left;
+        }
+
+8. Create a class that isn't tied to an element that centers the text. Make up the name.
+    A:  .imagine {
+            text-align: center;
+        }
+
+9. Style all headings of a particular size (your choice of size) so they line up on the right edge of the screen.
+    A:  h6 {
+            text-align: right;
+        }
+
+10. Create a class that isn't tied to an element that explicitly aligns text in the default position. Make up a name.
+    A:  .class {
+            text-align: left;
+        }
+
+11. Style h4 headings so they're 85% of "normal" size and centered.
+    A:  h4 {
+            font-size: .85em;
+            text-align: center;
+        }
+
+12. Style all paragraphs with .1 em extra space between lines than the default with smooth left and right edges.
+    A:  p {
+            line-height: 1.3em;
+            text-align: justify;
+        }
+
+13. Time goal: 35 seconds. Create a class of h3 headings named "normal" that explicitly gives them default alignment.
+    A:  h3.normal {
+            text-align: left;
+        }
+
+14. Time goal: 30 seconds. Create a class that isn't tied to an element that centers the text. Make up the name.
+    A:  .class {
+            text-align: center;
+        }
+
+15. Time goal: 30 seconds. Style all headings of a particular size (your choice of size) so they line up on the right edge of the screen.
+    A:  h6 {
+            text-align: right;
+        }
+
+16. Time goal: 35 seconds. Create a class that isn't tied to an element that explicitly aligns text in the default position. Make up a name.
+    A:  .class {
+            text-align: left;
+        }
+
+17. Time goal: 50 seconds. Style h4 headings so they're 85% of "normal" size and centered.
+    A:  h4 {
+            font-size: .85em;
+            text-align: center;
+        }
+
+18. Time goal: 50 seconds. Style all paragraphs with .1 em extra space between lines than the default with smooth left and right edges
+    A:  p {
+            line-height: 1.3em;
+            text-align: justify;
+        }
+
+19. http://jsfiddle.net/ASmarterWayToLearn/qddksL9a/
+
+20. http://jsfiddle.net/ASmarterWayToLearn/nr3v5b7a/

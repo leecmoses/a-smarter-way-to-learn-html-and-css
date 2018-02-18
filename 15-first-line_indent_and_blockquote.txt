@@ -1,0 +1,96 @@
+15 - First-Line Indent and Blockquote
+
+Notes
+    * text-indent:
+        * Any positive em value gives you an indent. The larger the value, the deeper the indent.
+        * To explicitly specify the default, no first-line indent, use a value of zero.
+    * Use blockquote to visually set off a quotation that's more than a few words long.
+        * Any paragraph placed inside blockquote tags is indented, by default.
+        * <blockquote></blockquote>
+        * Default blockquote styling can be changed in CSS.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/15.html
+
+1. The first line of a paragraph is indented how many spaces, by default? Answer with a numeral.
+    A: 0
+
+2. What is the word in CSS that specifies a first-line inden
+    A: text-indent
+
+3. What unit of measurement do you use to specify how deep a first-line indent is? Answer with a plural.
+    A: ems
+
+4. To indent all the lines of a section of text, what HTML word do you use?
+    A: blockquote
+
+5. Holding down the left mouse button, drag the pieces of code onto the screen to style all paragraphs so they indent 1 em.
+    A:  p {
+            text-indent: 1em;
+        }
+
+6. Code the HTML that indents all the lines of a paragraph that says Bollywood makes many musicals. Code both opening and closing tags as well as the text.
+    A: <blockquote><p>Bollywood makes many musicals.</p></blockquote>
+
+7. Create a class of paragraphs named "special" that indents the first line 1.5 ems.
+    A:  p.special {
+            text-indent: 1.5em;
+        }
+
+8. Create a class of paragraphs that indents the first line. Indent by any amount you like. Make up the name.
+    A:  p.class {
+            text-indent: 1em;
+        }
+
+9. Style paragraphs explicitly so they indent to the default, that is, no indent.
+    A:  p {
+            text-indent: 0;
+        }
+
+10. Code all the opening and closing tags (4 tags in all) for a paragraph where all the lines are indented. Don't include any text in the paragraph.
+    A: <blockquote><p></p></blockquote>
+
+11. Create a class of blockquote that doubles the "normal" text size. Make up the name.
+    A:  blockquote.class {
+            font-size: 2em;
+        }
+
+12. Code the opening tags only (2 opening tags in all) for a paragraph all of whose lines are indented and whose first line has additional indentation. The CSS you'll need to refer to is this:
+    p.indented {
+        text-indent: 1.25em;
+    }
+    A: <blockquote><p class="indented">
+
+13. Time goal: 35 seconds. Create a class of paragraphs named "special" that indents the first line 1.5 ems.
+    A:  p.special {
+            text-indent: 1.5em;
+        }
+
+14. Time goal: 40 seconds. Create a class of paragraphs that indents the first line. Indent by any amount you like. Make up the name.
+    A:  p.indents {
+            text-indent: 1.5em;
+        }
+
+15. Time goal: 25 seconds. Style paragraphs explicitly so they indent to the default, that is, no indent.
+    A:  p {
+            text-indent: 0;
+        }
+
+16. Time goal: 35 seconds. Code all the opening and closing tags (4 tags in all) for a paragraph where all the lines are indented. Don't include any text in the paragraph.
+    A: <blockquote><p></p></blockquote>
+
+17. Time goal: 40 seconds. Create a class of blockquote that doubles the "normal" text size. Make up the name.
+    A:  blockquote.double {
+            font-size: 2em;
+        }
+
+18. Time goal: 35 seconds. Code the opening tags only (2 opening tags in all) for a paragraph all of whose lines are indented and whose first line has additional indentation. The CSS you'll need to refer to is this:
+    p.indented {
+        text-indent: 1.25em;
+    }
+    A: <blockquote><p class="indented">
+
+19. http://jsfiddle.net/ASmarterWayToLearn/sa4xovex/
+
+20. http://jsfiddle.net/ASmarterWayToLearn/jbyy6nu9/
+

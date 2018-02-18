@@ -1,0 +1,75 @@
+11 - Styling Bits and Pieces
+
+Notes
+    * Use <span> tag to style bits and pieces of blocks.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/11.html
+
+1. What are the first 5 characters of the tag that styles part of a paragraph or heading?
+    A: <span
+
+2. What is the closing tag for styling part of a paragraph or heading?
+    A: </span>
+
+3. Rewrite the following CSS code so it can be used for a span.
+    p.special {
+    
+    A: .special {
+
+4. What are the first 12 characters of an opening span tag that's assigned a class?
+    A: <span class=
+
+5. Holding down the left mouse button, drag the pieces of code onto the screen to style the word "must" in the sentence "I must emphasize this."
+    A: I <span class="special">must</span> emphasize this.
+
+6. Create a class named "stressed" that maximally bolds a section of text. Use a word, not a number, to specify how bold.
+    A:  .stressed {
+            font-weight: bolder;
+        }
+
+7. Code a paragraph, including opening and closing tags, with the text Hello there! The first word (but not the space that follows it) is assigned the span class "giant".
+    A: <p><span class="giant">Hello</span> there!</p>
+
+8. Write the opening tag for styling a section of text using the class "special"
+    A: <span class="special">
+
+9. Write a heading (your choice of size), including opening and closing tags, that assigns a class to a portion of the text. Make up the class name.
+    A: <h1><span class="smarter">This is a smarter</span> way to learn.</h1>
+
+10. Write a paragraph, including opening and closing tags. Within the paragraph, use span to style all the text. Make up your own class name.
+    A: <p><span class="class">Write a paragraph.</span></p>
+
+11. Create a class that can be used for a section of text that specifies the size and boldness of text. Use a number to specify boldness. Make up your own class name. Your choice of size and boldness.
+    A:  .intrusive {
+            font-size: 2.25em;
+            font-weight: 600;
+        }
+
+12. Write a paragraph including opening and closing tags, including text. Start and end a span outside the opening and closing paragraph tags. Make up a name for the class.
+    A: <span class="outsider"><p>Who is he?</p></span>
+
+13. Time goal: 50 seconds. Code a paragraph, including opening and closing tags, with the text Hello there! The first word is assigned the span class "giant".
+    A: <p><span class="giant">Hello</span> there!</p>
+
+14. Time goal: 25 seconds. Write the opening tag for styling a section of text using the class "special"
+    A: <span class="special">
+
+15. Time goal: 60 seconds. Write a heading (your choice of size), including opening and closing tags, that assigns a class to a portion of the text. Make up the class name.
+    A: <h2><span class="smarter">This is a smarter</span> way to learn.</h2>
+
+16. Time goal: 65 seconds. Write a paragraph, including opening and closing tags. Within the paragraph, use span to style all the text. Make up your own class name.
+    A: <p><span class="check_it">Is this the correct answer?</span></p>
+
+17. Time goal: 55 seconds. Create a class that can be used for a section of text that specifies the size and boldness of text. Use a number to specify boldness. Make up your own class name. Your choice of size and boldness.
+    A:  .cool {
+            font-size: .9em;
+            font-weight: 300;
+        }
+
+18. Time goal: 60 seconds. Write a paragraph including opening and closing tags. Start and end a span outside the opening and closing paragraph tags. Make up a name for the class.
+    A: <span class="outsider"><p>Who is he?</p></span>
+
+19. http://jsfiddle.net/ASmarterWayToLearn/wysvfjk4/
+
+20. http://jsfiddle.net/ASmarterWayToLearn/8mf5bbjv/

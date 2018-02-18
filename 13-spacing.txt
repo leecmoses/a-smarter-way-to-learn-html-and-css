@@ -1,0 +1,104 @@
+13 - Spacing
+
+Notes
+    * letter-spacing:
+        * When you specify an em value for letter-spacing, it tells the browser how much more space you want beyond the normal spacing.
+        * OR how much less. (you can have a negative em value)
+    * For default letter-spacing use a value of zero.
+    * word-spacing:
+        * If you want to adjust spacing only between words.
+        * Not used very often.
+    * line-height:
+        * Used to specify the space between text lines.
+        * 1.2em for default line spacing.
+        * 1.8em is approximately an extra half-line of spacing.
+        * 1em would be slightly tighter spacing than normal.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/13.html
+
+1. What is the CSS word you use to increase or decrease the default spacing between characters?
+    A: letter-spacing
+
+2. If you want to separate words by more or less space, what word do you use?
+    A: word-spacing
+
+3. What unit of measurement do you use for spacing? (Answer with a plural.)
+    A: ems
+
+4. What is the word for increasing or decreasing white space between lines?
+    A: line-height
+
+5. Holding down the left mouse button, drag the pieces of code onto the screen to create a class of heading named "airy" that increases word-spacing slightly.
+    A:  h2.airy {
+            word-spacing: .1em;
+        }
+
+6. Style all paragraphs with default word spacing.
+    A:  p {
+            word-spacing: 0;
+        }
+
+7. Create a class of h3 headings named "tight" that decreases word-spacing .2 ems.
+    A:  h3.tight {
+            word-spacing: -.2em;
+        }
+
+8. Create a class not tied to an element that increases letter-spacing by any amount you choose. Make up the name.
+    A:  .spaced {
+            letter-spacing: .25em;
+        }
+
+9. Create a class of heading (your choice of size) that tightens word-spacing by any amount you choose. Make up the name.
+    A:  h3.right {
+            word-spacing: -.1em;
+        }
+
+10. Style all headings of a particular size (your choice of size) with default letter-spacing.
+    A:  h3 {
+            letter-spacing: 1em;
+        }
+
+11. Style all headings of a particular size (your choice of size) with default space between lines.
+    A:  h1 {
+            line-height: 1.2em;
+        }
+
+12. Style all paragraphs with roughly 1-1/2 spaces between lines.
+    A:  p {
+            line-height: 1.8em;
+        }
+
+13. Time goal: 35 seconds. Create a class of h3 headings named "tight" that decreases word-spacing .2 ems.
+    A:  h3.tight {
+            word-spacing: -.2em;
+        }
+
+14. Time goal: 35 seconds. Create a class not tied to an element that increases letter-spacing by any amount you choose. Make up the name.
+    A:  .classy {
+            letter-spacing: .5em;
+        }
+
+15. Time goal: 35 seconds. Create a class of heading (your choice of size) that tightens word-spacing by any amount you choose. Make up the name.
+    A:  h2.tighten {
+            word-spacing: -.25em;
+        }
+
+16. Time goal: 30 seconds. Style all headings of a particular size (your choice of size) with default letter-spacing.
+    A:  h3 {
+            letter-spacing: 0;
+        }
+
+17. Time goal: 30 seconds. Style all headings of a particular size (your choice of size) with default space between lines.
+    A:  h4 {
+            line-height: 1.2em;
+        }
+
+18. Time goal: 30 seconds. Style all paragraphs with roughly 1-1/2 spaces between lines.
+    A:  p {
+            line-height: 1.8em;
+        }
+
+19. http://jsfiddle.net/ASmarterWayToLearn/2vrjdgtq/
+
+20. http://jsfiddle.net/ASmarterWayToLearn/a3b4fnwn/

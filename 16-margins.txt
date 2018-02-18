@@ -1,0 +1,104 @@
+16 - Margins
+
+Notes
+    * Margins can be put around paragraphs, headings, and many other HTML elements.
+    * Margin creates extra whitespace around the top, bottom, or sides of an element.
+    * When specifying all four margins in one statement, specify them in clockwise order, starting at the top.
+        * When you want no margin, use 0, not 0em.
+    * Instead of specifying all four margins, you can specify individual margins.
+        * margin-top, margin-right, margin-bottom, and margin-left.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/16.html
+
+1. What is the word that allows you to specify how much white space is added to the top, right, bottom, and left?
+    A: margin
+
+2. The code specifies margins of 1 em all around, except for the right. It has no margin. Fill in the blank.
+margin: 1em __ 1em 1em;
+    A: 0
+
+3. When you specify all 4 margins, which margin is specified first?
+    A: top
+
+4. What is the more concise way to code this?
+    margin: 0 0 .5em 0;
+    A: margin-bottom: .5em;
+
+5. Holding down the left mouse button, drag the pieces of code onto the screen to style paragraphs with left and right margins. The left margin is larger.
+    A:  p {
+            margin: 0 .75em 0 1em;
+        }
+
+6. Create a class of paragraphs, named "separated" with a bottom margin of .75 ems. Specify all the margins for this class.
+    A:  p.separated {
+            margin: 0 0 .75em 0;
+        }
+
+7. Rewrite this code without specifying all the margins.
+    margin: 0 0 0 .5em;
+    A: margin-left: .5em;
+
+8. Specifying margins for all four sides in a single statement, give h4 headings equal left and right margins of .25 ems. Specify top and bottom margins of 0.
+    A:  h4 {
+            margin: 0 .25em 0 .25em;
+        }
+
+9. For paragraphs, specify equal top and bottom margins of .5 ems without specifying margins for left and right.
+    A:  p {
+            margin-top: .5em;
+        margin-bottom: .5em;
+        }
+
+10. In a single statement specify all four margins for a class of paragraph. The bottom margin is .25 ems. The other margins are twice that size. Make up the name.
+    A:  p.class {
+            margin: .5em .5em .25em .5em;
+        }
+
+11. Give paragraphs a bottom margin that separates them by .75 ems and have a first-line indent of the same size. Don't specify any other margins.
+    A:  p {
+            margin-bottom: .75em;
+        text-indent: .75em;
+        }
+
+12. Style a class of headings (your choice of size) that have equal left and right margins of 1 em and are 120% of the "normal" size. Specify the margins in a single statement. Make up the name.
+    A:  h3.standout {
+            margin: 0 1em 0 1em;
+            font-size: 1.2em;
+        }
+
+13. Time goal: 20 seconds. Rewrite this code without specifying all the margins.
+    margin: 0 0 0 .5em;
+    A:  margin-left: .5em;
+
+14. Time goal: 40 seconds. Specifying margins for all four sides in a single statement, give h4 headings left and right margins of .25 ems. Specify top and bottom margins of 0.
+    A:  h4 {
+            margin: 0 .25em 0 .25em;
+        }
+
+15. Time goal: 45 seconds. For paragraphs, specify equal top and bottom margins of .5 ems without specifying margins for left and right.
+    A:  p {
+            margin-top: .5em;
+            margin-bottom: .5em;
+        }
+
+16. Time goal: 60 seconds. Style a class of headings (your choice of size) that have equal left and right margins of 1 em and are 120% of the "normal" size. Specify the margins in a single statement. Make up the name.
+    A:  h3.standout {
+            margin: 0 1em 0 1em;
+            font-size: 1.2em;
+        }
+
+17. Time goal: 55 seconds. Specify all four margins for a class of paragraph. The bottom margin is .25 ems. The other margins are twice that size. Make up the name.
+    A:  p.class {
+            margin: .5em .5em .25em .5em;
+        }
+
+18. Time goal: 45 seconds. Give paragraphs a bottom margin that separates them by .75 ems and have a first-line indent of the same size. Don't specify any other margins.
+    A:  p {
+            margin-bottom: .75em;
+            text-indent: .75em;
+        }
+
+19. http://jsfiddle.net/ASmarterWayToLearn/gf3cykry/
+
+20. http://jsfiddle.net/ASmarterWayToLearn/fgs4ydnq/

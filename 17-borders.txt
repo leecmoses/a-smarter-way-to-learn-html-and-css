@@ -1,0 +1,113 @@
+17 - Borders
+
+Notes
+    * You can put a border around a paragraph, a heading, and many other HTML elements.
+    * 8 border styles:
+        * dotted
+        * dashed
+        * solid
+        * double
+        * groove
+        * ridge
+        * inset
+        * outset   
+    * Always state the specs in this order: width, style, color.
+        * There's a space between them, but no comma.
+    * Not linked to just 4-sided borders.
+        * border-top, border-right, border-bottom, border-left
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/17.html
+
+1. Of the three border specifications, what is the last one? Answer with one word.
+    A: color
+
+2. Fill in the blank to specify a border that looks like this:
+    ------------------ 
+    border: 3px ______ #0000ff;
+    A: dashed
+
+3. Fill in the blank to specify a border that looks like this:
+    ................... 
+    border: 3px ______ #0000ff;
+    A: dotted
+
+4. Fill in the blank to specify a border for the left side. 
+    ____________ 1px solid #0000ff;
+    A: border-left:
+
+5. Holding down the left mouse button, drag the pieces of code onto the screen to create a class not tied to an element named "boxed."
+    A:  .boxed {
+            border: 2px solid teal;
+        }
+
+6. Specify a 2-pixel double border with a hex color, for all 4 sides. (You don't need to know which hex color. Just type the first character. I'll autocomplete.)
+    A: r: 2px double #cccccc;
+
+7. Create a class of h3 headings named "special" that have top and bottom borders that are solid, black, and 2 pixels wide.
+    A:  h3.special {
+            border-top: 2px solid black;
+            border-bottom: 2px solid black;
+        }
+
+8. In one line of code specify a solid border for all four sides that's 3 pixels wide. Specify any color name you like. (No spaces in color names.)
+    A: border: 3px solid red;
+
+9. Create a class not tied to an element that specifies a top border, dotted, that's royalblue. It's 4 pixels wide. Make up the class name.
+    A:  .class {
+            border-top: 4px dotted royalblue;
+        }
+
+10. Create a class of paragraphs that has a border of minimal width on the left and one twice as wide on the right. Make them hex efefef in color. Make them solid. Make up the class name.
+    A:  p.class {
+            border-left: 1px solid #efefef;
+            border-right: 2px solid #efefef;
+        }
+
+11. Style h3 headings so they have a 2 ems margin on all four sides and a dashed, 2-pixel wide darkblue border on all four sides.
+    A:  h3 {
+            margin: 2em;
+            border: 2px dashed darkblue;
+        }
+
+12. Create a class not tied to an element that (hideously) has two borders, top and right, of two different color names (not hex), two different widths, and two different line types. Start with the top border. Make up the class name.
+    A:  .hideous {
+            border-top: 10px solid red;
+            border-right: 1px dashed white;
+        }
+
+13. Time goal: 95 seconds. Create a class of h3 headings named "special" that have top and bottom borders that are solid, black, and 2 pixels wide.
+    A:  h3.special {
+            border-top: 2px solid black;
+            border-bottom: 2px solid black;
+        }
+
+14. Time goal: 25 seconds. In one line of code specify a solid border for all four sides that's 3 pixels wide. Specify any color name you like. (No spaces in color names.)
+    A:  border: 3px solid blue;
+
+15. Time goal: 60 seconds. Create a class not tied to an element that specifies a top border, dotted, that's royalblue. It's 4 pixels wide. Make up the class name.
+    A:  .fancy_top {
+            border-top: 4px dotted royalblue;
+        }
+
+16. Time goal: 100 seconds. Create a class of paragraphs that has a border of minimal width on the left and one twice as wide on the right. Make them hex efefef in color. Make them solid. Make up the class name.
+    A:  p.class {
+            border-left: 1px solid #efefef;
+            border-right: 2px solid #efefef;
+        }
+
+17. Time goal: 55 seconds. Style h3 headings so they have a 2 ems margin on all four sides and a dashed, 2-pixel wide darkblue border on all four sides.
+    A:  h3 {
+            margin: 2em;
+            border: 2px dashed darkblue;
+        }
+
+18. Time goal: 90 seconds. Create a class not tied to an element that (hideously) has two borders, top and right, of two different color names (not hex), two different widths, and two different line types. Start with the top border. Make up the class name.
+    A:  .hideous {
+            border-top: 10px solid red;
+            border-right: 1px dashed white;
+        }
+
+19. http://jsfiddle.net/ASmarterWayToLearn/g820Ltub/
+
+20. http://jsfiddle.net/ASmarterWayToLearn/aw66fsjm/
