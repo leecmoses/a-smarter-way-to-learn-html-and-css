@@ -1,0 +1,17 @@
+23 - Images
+
+Notes
+    * Images on a webpage are almost always one of three types: jpg, gif, or png.
+        * jpg format is best for photographs and for illustrations with many subtle colors.
+        * gif format can be used for line drawings, illustrations with just a few colors, and images of text.
+            * gif offers transparency, meaning that the background color can show through whatever you want it to.
+            * gifs can be animated. Unless you need animation, the gif format is rarely your best choice.
+        * png format has the same general featuers as gif, but has no animation.
+            * It is prefered because it gives you higher quality than a gif and is smaller file size.
+                * Smaller file size means pages load faster.
+        * <img src="name of subfolder/filename.type">
+            * No closing tag
+        * img src stands for "image source."
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/23.html

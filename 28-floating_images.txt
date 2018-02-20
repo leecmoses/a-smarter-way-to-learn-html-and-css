@@ -1,0 +1,10 @@
+28 - Floating Images
+
+Notes
+    * Float is used to style an image so text wraps around it.
+    * To prevent a paragraph from wrapping around an image, you use the word clear.
+    * If you don't want text jammed up against a floated image, you need to specify a margin.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/28.html
+

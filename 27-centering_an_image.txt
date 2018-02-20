@@ -1,0 +1,13 @@
+27 - Centering an Image
+
+Notes
+    * To get an image use the following specifications:
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    * more concise code for margins:
+        margin: 0 auto 0 auto;
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/27.html
+

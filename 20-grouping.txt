@@ -1,0 +1,8 @@
+20 - Grouping
+
+Notes
+    * You can group elements that share one ore more style characteristics.
+    * This doesn't prevent you from individually styling these elments with other characteristics.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/20.html

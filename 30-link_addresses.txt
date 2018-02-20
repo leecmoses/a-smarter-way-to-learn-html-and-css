@@ -1,0 +1,8 @@
+30 - Link Addresses
+
+Notes
+    * Don't need domain address when linking page from the same website.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/30.html
+

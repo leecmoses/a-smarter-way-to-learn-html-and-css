@@ -1,0 +1,10 @@
+24 - Block Elements vs Inline Elements
+
+Notes
+    * A block is a type of element begins and ends a line, without sharing the line with another element.
+    * Inline is a type of element can share a line with other elements? Answer with 1 word.
+    * An image is placed on the left by default.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/24.html
+

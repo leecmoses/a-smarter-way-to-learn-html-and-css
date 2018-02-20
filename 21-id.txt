@@ -1,0 +1,9 @@
+21 - ID
+
+Notes
+    * An id is like a class, but more exclusive. It can be assigned only once in an HTML document.
+        * An element, though can have many classes, can only have one id.
+    * Ids should only be used once per HTML page.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/21.html

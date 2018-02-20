@@ -1,0 +1,10 @@
+26 - Positioning an Image
+
+Notes
+    * By default the browser positions an image on the left.
+    * Images by default are inline elements.
+        * Specifiy display as block for new separate lines.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/26.html
+

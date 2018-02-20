@@ -1,0 +1,10 @@
+22 - Div
+
+Notes
+    * Divs are used to break up a webpage into sections.
+    * Each of these divs can have its own styling, using either a class or an id.
+    * Coders commonly create separate divs for headers, navigation bars, main content, and footers.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/22.html
+

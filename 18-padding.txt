@@ -1,0 +1,10 @@
+18 - Padding
+
+Notes
+    * Padding is the whitespace between the border and what's inside.
+    * Like code for margins, the numbers start at the top and go clockwise.
+        * padding-top, padding-right, padding-bottom, padding-left
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/18.html
+

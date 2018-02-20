@@ -1,0 +1,13 @@
+19 - Inheritance
+
+Notes
+    * Inheritance is an efficiency feature of CSS. It means you have to write far less code.
+        * Body is parent of all the content that displays on the page.
+        * Both head and body have a parent, HTML.
+    * Inherited styles can be overwritten.
+        * When overriding an inherited size with an em value, it is relative to the inherited size.
+        * This is the reason why many developers use 1em as the default size for the body.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/19.html
+

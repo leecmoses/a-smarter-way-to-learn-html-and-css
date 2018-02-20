@@ -1,0 +1,14 @@
+29 - Links
+
+Notes
+    * A link is displayed, by default, in blue, with an underline. When you click on some text or an image, a new page loads.
+        * <a href="path">text</a>
+            * 'a' tells the browser to watch for an anchor. The anchor is the link text between the opening <a> tag and the closing </a> tag.
+            * 'href' stands for "hypertext reference." href tells the browser, "Watch for an address immediately following the equal sign. This will be the page to load when the user clicks the anchor."
+            * The web address is in quotes.
+            * The closing tag ends it.
+        * If linking to a page on the same website, in the same folder, all you need is the page name.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/29.html
+

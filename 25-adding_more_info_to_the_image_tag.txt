@@ -1,0 +1,8 @@
+25 - Adding More Info to the Image Tag
+
+Notes
+    * Alt is the specification that provides a word or a few words that describe the image.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/25.html
+
