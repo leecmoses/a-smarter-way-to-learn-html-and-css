@@ -1,0 +1,8 @@
+32 - Opening a New Window
+
+Notes
+    * target="_blank"
+    * Mainly review over previous chapters.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/32.html

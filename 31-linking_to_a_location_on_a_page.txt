@@ -1,0 +1,8 @@
+31 - Linking to a Location on a Page
+
+Notes
+    * <a href="#idname">text</a>
+    * <p id="idname">text</a>
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/31.html
