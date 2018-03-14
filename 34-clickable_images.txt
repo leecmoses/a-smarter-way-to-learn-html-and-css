@@ -1,0 +1,7 @@
+34 - Clickable Images
+
+Notes
+    * <a href="#idname"><img src="" alt="" width="" height=""></a>
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/34.html

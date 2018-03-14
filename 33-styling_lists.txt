@@ -1,0 +1,9 @@
+33 - Styling Links
+
+Notes
+    * :hover is used for styling a link when it is moused over.
+    * :active is used for styling a link when the user clicks it.
+    * :visited is used for styling a link that the user has previously clicked.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/33.html
