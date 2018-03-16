@@ -1,0 +1,10 @@
+35 - Image maps part 1
+
+Notes
+    * An image map is a special type of clickable image. Your code sections into two or more parts.
+    * You specify the image mage within the image tag.
+    * The first 6 characters of the image map specification in an image tag are usemap.
+    * <map name="namegoeshere"></map>
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/35.html
