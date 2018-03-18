@@ -1,0 +1,9 @@
+36 - Image Maps Part 2
+
+Notes
+    * <map name="world">
+      <area shape="rect" alt="Tibbe Manse" coords="488,119,559,471" href="tibble-manse.html">
+    * rect, polygon, circle
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/36.html
