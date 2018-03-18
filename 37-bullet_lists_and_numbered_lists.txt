@@ -1,0 +1,14 @@
+37 - Bullet lists and numbered lists 
+
+Notes
+    * The HTML term for a bullet list is unordered list.
+        * Unordered means not numbered.
+    * An ordered list is a numbered list.
+    * Making bullet and numbered lists in HTML is convenient, because HTML automatically indents lists and automatically numbers ordered lists.
+    * <ul> for unordered lists
+    * <ol> for ordered lists 
+    * <li> stands for list item
+
+ 
+Quiz
+“http://www.ASmarterWayToLearn.com/htmlcss/37.html”
