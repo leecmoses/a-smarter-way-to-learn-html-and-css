@@ -1,0 +1,12 @@
+38 - Styling Lists
+
+Notes 
+    * Since lists are text elements, you can style them they way you'd style a paragraph or heading, with a customized font-family, font-size, font-weight, color, and margins.
+    * For margins only a single number is necessary, because browsers understand that it specifies the space between list items.
+    * list-style-position: outside; is the default, to indent only the first line of text and make all other lines flush with the bullet, write:
+        list-style-position: inside;
+    * By default browsers add 0 ems of space between list items.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/38.html
+
