@@ -1,0 +1,23 @@
+39 - Styling a lists's markers
+
+Notes
+    * Markers are the bullets in an unordered list or the numbers in an ordered list.
+    * ul {
+        list-style-type: disc;
+        list-style-type: circle;
+        list-style-type: square;
+        OR 
+        list-style-image: url ("images/heart.png");
+    }
+    * The default list-style-type for ordered lists is decimal-1, 2, 3 etc.
+    * You can change it to decimal-leading-zero-01, 02, 03 etc.
+    * lower-alpha-a, b, c etc.
+    * upper-alpha-A, B, C etc.
+    * lower-roman-i., ii., iii. etc.
+    * upper-roman-I., II., III. etc.
+    * ol.second-level {
+        list-style-type: upper-roman;
+    }
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/39.html
