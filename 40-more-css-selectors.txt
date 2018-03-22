@@ -1,0 +1,12 @@
+40 - More CSS selectors
+
+Notes
+    * A CSS selector is everything on the first line that precedes the {.
+    * div#content > div {
+        * The code above selects only the first level of divs within the div that has an id of "main".
+    * div.content + p {
+        * Style the first paragraph inside all divs of a class called content.
+    * 
+
+Quiz
+“http://www.ASmarterWayToLearn.com/htmlcss/40.html”
