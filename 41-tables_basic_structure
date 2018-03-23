@@ -1,0 +1,28 @@
+41 - Tables: basic structure 
+
+Notes
+    * All the HTML code for a table is enclosed in an opening and closing tag.
+    <table>
+        [The details of the table go here.]
+    </table>
+    * Below is a table with two rows and two columns.
+    <table>
+        <tr>
+            <td>Row 1, column 1</td>
+            <td>Row 1, column 2</td>
+        </tr>
+        <tr>
+            <td>Row 2, column 1</td>
+            <td>Row 2, column 2</td>
+        </tr>
+    </table>
+    * Unless you style a border explicitly, most browsers display it without borders.
+    * You create a row using the <tr> (for "table row") tag.
+    * Then you create all the cells within that row using the <td> (for "table data") tag.
+        * All the text content of a table cell is enclosed between the opening tag and the closing <td> tag.
+    * The opening <tr> tag and closing </tr> tag don't enclose any text content.
+        * They only contain the <td> tags and their text content.
+    * Each row must have the same number of cells, created with the <td> and </td> tags, even if some of the cells are empty.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/41.html
