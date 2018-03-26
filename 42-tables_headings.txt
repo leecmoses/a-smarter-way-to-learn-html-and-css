@@ -1,0 +1,11 @@
+42 - Tables: headings
+
+Notes
+    * You begin by creating a row for the headings, just as you would for regular cells. Then, using the opening <th> (for "table heading") and closing </th> tags, you construct cells with text in them, as you would for regular text cells.
+        * scope="col" to create a heading for each column
+        * scope="row" to create a heading for each row
+    * Use a blank column heading when using both row and column headings. This tells the browser that there is no column heading over the column of row headings.
+        * <th scope="col"></th>
+        
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/42.html
