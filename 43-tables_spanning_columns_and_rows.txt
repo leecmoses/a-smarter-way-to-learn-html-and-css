@@ -1,0 +1,9 @@
+43 - Tables: spanning columns and rows
+
+Notes
+    * The code for a column-span cell looks like a regular <td> cell, except for the code 'codespan="[number of columns to span]".
+    * <th scope="row" colspan="[number of columns to span]">Whatever</th>
+    * Spanning rows works the same way as spanning columns, but use rowspan.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/43.html
