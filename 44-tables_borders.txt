@@ -1,0 +1,10 @@
+44 - Tables: borders
+
+Notes
+    * If you do not want the gaps, that are added by default when adding borders use the following code:
+    table {
+        border-collapse: collapse;
+    }
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/44.html
