@@ -1,0 +1,11 @@
+45 - Tables: Spacing part 1
+
+Notes
+    * By default, browsers don't add breathing room b/w the table cell borders and the text they contain, the solution is to add padding.
+    * If you want cells spaced apart even father than the browser default, you need to specify the border-spacing. Note the spacing is for the table and not th or td.
+    table {
+        border-spacing: 1em;
+    }
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/45.html
