@@ -1,0 +1,11 @@
+46 - Tables: spacing part 2
+
+Notes
+    * By default, browsers adjust cell size to contents.
+    * However, instead of letting the browser allocate space on the basis of need, style the cells so they'd all be 20% of the width of the full table.
+        * In other words, they'd all have the same width.
+    * Note that the browser automatically wraps longer lines into multiple lines to fit them into the width.
+    * By default a table occupies 100% of the width of the window or div.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/46.html
