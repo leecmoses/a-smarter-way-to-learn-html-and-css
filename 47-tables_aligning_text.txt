@@ -1,0 +1,18 @@
+47 - Tables: aligning text 
+
+Notes
+    * The same code to align text on a page can be used to align text in table cells.
+        text-align: left;
+        text-align: right;
+        text-align: center;
+        text-align: jusitfy;
+    * Center is the default text alignment for table data cells. 
+    * You can also control the vertical alignment within cells, using...
+        vertical-align: top;
+        vertical-align: bottom;
+        vertical-align: center;
+    * However, you can't specify vertical alignment for the whole table, only for <th> and <td> elements.
+        * By default text is vertically centered in both <th> and <td> cells.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/47.html
