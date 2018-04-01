@@ -1,0 +1,7 @@
+48 - Tables: background color
+
+Notes
+    * A characteristic that can be especially useful in tables is background-color. For example you can use it shade alternative rows to make reading a row easier.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/48.html
