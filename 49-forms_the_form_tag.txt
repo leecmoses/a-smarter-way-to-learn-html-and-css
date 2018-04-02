@@ -1,0 +1,10 @@
+49 - Forms: the form tag
+
+Notes
+    * In most cases, when a user completes a form, a program separate from the HTML file runs.
+    * An HTML file is stored on the host's server but runs in the user's browser.
+    * If you don't specify a method, the get method is used.
+    * The function of a PHP or other program called in the form tag is to process data.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/49.html
