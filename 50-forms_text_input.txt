@@ -1,0 +1,19 @@
+50 - Forms: text input
+
+Notes
+    <form action="send-email.php" method="POST">
+    Last name:
+    <input type="text" name="surname" size="25" maxlength="40">
+    </form>
+
+    * The input tag has four parts:
+    1. type="text" - this tells the browser to display a single-line box in which the user can enter text.
+    2. name="surname" - the name can be almost anything you like, but don't use spaces in it. The name tells the program that's processing the data what to call the information that the user enters in that field.
+    3. size="25" - this tells the browser how wide to make the box. When you write size="25" you're telling the browser to make the box roughly 25 characters wide.
+    If you don't specify it, the browser will make a text box 20 characters wide by default.
+    4. maxlength="40" - this tells the browser to put a limit on the number of characters that can be typed into this field. If there's scrolling, the scrolling will stop at this limit.
+    Specifying the maximum length is optional. If you don't specify it, the box will accept any number of characters and will scroll as far as it needs to in order to accommodate all the characters.
+    * type="password" - a password field that is like a text input field, except that the characters that the user enters are disguised as asterisks or circles in the field. You code a text input field, except that you replace the word "text" with the word "password".
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/50.html
