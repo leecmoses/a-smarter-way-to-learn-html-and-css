@@ -1,0 +1,10 @@
+51 - Forms: textarea
+
+Notes
+    <textarea name="message" rows="4" cols="30"></textarea>
+    * The textarea tag creates a multi-line text field.
+    * Notice, first, that this tag is closed, with </textarea>.
+    * rows="8" cols="30" specifies the number of visible rows and columns.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/51.html
