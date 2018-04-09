@@ -1,0 +1,14 @@
+52 - Forms: submit
+
+Notes
+    <input type="submit" value="Send email message.">
+    * This is a simple input tag, with only two parts.
+    * The first part creates the button that, when clicked, submits the form.
+    * The second part specifies the button text.
+    * The submit tag creates a standard button.
+    * If you want a custom button, create your own button image and write a tag like this.
+        <input type="image" src="images/subscribe-button.png" alt="Sign up" width="72" height="18">
+        * The browser knows this is a Submit button even though you say input type is "image".
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/52.html
