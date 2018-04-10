@@ -1,0 +1,9 @@
+54 - Forms: Checkboxes
+
+Notes
+    * Checkboxes work like radio buttons, except that the user can check more than one.
+    * As with radio buttons, each checkbox has its own separate input tag.
+    * And again, what binds all the checkboxes in a group together is that they're all given the same name.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/54.html
