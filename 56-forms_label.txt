@@ -1,0 +1,9 @@
+56-Forms: label
+
+Notes
+    * It’s a good idea to give each control a label tag. 
+    * The form tag itself doesn’t take one, but it’s a good idea to add one to each text field, text area, radio button, checkbox, and selection option. 
+    * But it isn’t required.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/56.html
