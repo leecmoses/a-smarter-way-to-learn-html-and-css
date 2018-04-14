@@ -4,6 +4,9 @@ Notes
     * A select box works well when you want the user to select from a list that’s too long to be handled gracefully by radio buttons.
     * Like radio buttons, only one selection can be made in a select box.
     * Starts with <select, not <input type=
+        <select name="pet-list">
+        <option value="loris">loris</option>
+        </select>
     * Unlike radio buttons and checkboxes, which are freestanding and bound together by a common name, all the choices are enclosed by opening and closing select tags.
     * Unlike most other input types, option tags are closed.
     * The name is specified only once, in the select tag.

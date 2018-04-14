@@ -1,0 +1,12 @@
+57 - Grouping related elements
+
+Notes
+    * If your form has a lot of parts, you can improve the user's experience by grouping related parts together visually by using the fieldset tags.
+        * <fieldset></fieldset>
+        * Everything within the fieldset tags is indented 2 spaces.
+    * Can improve the readability of the form even further by adding legends-descriptive text that's at the top of the box.
+        * <legend></legend>
+        * The legend tags go on the line following the opening fieldset tag and, like everything enclosed by the fieldset tags, are indented 2 spaces.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/57.html

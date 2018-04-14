@@ -4,6 +4,12 @@ Notes
     * It’s a good idea to give each control a label tag. 
     * The form tag itself doesn’t take one, but it’s a good idea to add one to each text field, text area, radio button, checkbox, and selection option. 
     * But it isn’t required.
+    <label><input type="radio" name="found-thru" value="Google">Google</label>
+        * Notice how the label tag encloses both the text and the control.
+        * This is the easy way to add a label tag.
+    <input type="radio" name="found-thru" id="goo" value="Google"><label for="goo">Google</label>
+        * They hard way, preferred by experts for esoteric reasons, requires that you give the control an id.
+        * In this method, the opening and closing label tags enclose only the text.
 
 Quiz
 http://www.asmarterwaytolearn.com/htmlcss/56.html
