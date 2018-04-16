@@ -1,0 +1,8 @@
+58 - Forms: styling
+
+Notes
+    * Font-styling for the form affects only the labels and legends.
+    * There are more ways to customize HTML forms than there are stars in the galaxy.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/58.html
