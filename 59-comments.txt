@@ -1,0 +1,11 @@
+59 - Comments
+
+Notes
+    * Commenting is a way to tell the browser to ignore certain portions of text that you include within the body of code.
+    * Comments are for the human, not the machine. It helps you and others understand the code when it comes time to revise.
+    * Can also use commenting to comment out portions of your code for testing and debugging.
+    * In HTML any text enclosed by an opening <!-- tag and a closing --> tag is invisible to the browser.
+    * Can also comment CSS code, but the tags are different. It's /* to open, */ to close.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/59.html
