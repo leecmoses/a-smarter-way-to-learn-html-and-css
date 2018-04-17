@@ -1,0 +1,7 @@
+60 - Layout: nested boxes
+
+Notes
+    * The first thing to know about HTML page layout is that it's always a collection of invisible nested boxes.
+
+Quiz
+http://www.asmarterwaytolearn.com/htmlcss/60.html
